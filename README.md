@@ -252,12 +252,3 @@ It is a **thinking lab** — built, broken, attacked, and fixed intentionally.
 > *“Security is understanding how things fail.”*
 
 ---
-
-If you want, next we can:
-
-* Polish this README visually
-* Add **attack diagrams per phase**
-* Write a **LinkedIn post** explaining this project like a senior engineer
-* Prepare **interview talking points** based on this lab
-
-Just tell me 💪
